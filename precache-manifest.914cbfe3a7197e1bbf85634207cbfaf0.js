@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "682aee5f5b1cba989ea3ce4e8486a951",
+    "revision": "35dc5a08732ccbdef8b2e625e1cfaba5",
     "url": "/okat-cupid/index.html"
   },
   {
-    "revision": "b9c2d46cad8a7c7227e6",
+    "revision": "da4badefff8d9759382c",
     "url": "/okat-cupid/static/css/main.82786d5b.chunk.css"
   },
   {
-    "revision": "3730b3db477ca89fea59",
-    "url": "/okat-cupid/static/js/2.2f91856e.chunk.js"
+    "revision": "4241f209afb14f8c7d0d",
+    "url": "/okat-cupid/static/js/2.e137c02f.chunk.js"
   },
   {
-    "revision": "b9c2d46cad8a7c7227e6",
-    "url": "/okat-cupid/static/js/main.c9cbb3fd.chunk.js"
+    "revision": "da4badefff8d9759382c",
+    "url": "/okat-cupid/static/js/main.d8971645.chunk.js"
   },
   {
     "revision": "ac4d2b7ca81d0f804757",
